@@ -3,18 +3,12 @@ RahardiSalim:
   title: CS Student
   url: https://github.com/RahardiSalim
   image_url: https://github.com/RahardiSalim.png
-  page: true
-  socials:
-    github: RahardiSalim
 
-daffuwu:
-  name: Daffa Rayhan Ananda
+Nadekoooo:
+  name: Christian Yudistira Hermawan
   title: CS Student
-  url: https://github.com/daffuwu
-  image_url: https://github.com/daffuwu.png
-  page: true
-  socials:
-    github: daffuwu
+  url: https://github.com/Nadekoooo
+  image_url: https://github.com/Nadekoooo.png
 
 yangshun:
   name: Yangshun Tay
